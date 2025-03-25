@@ -1,2 +1,2 @@
 # DEUTSCHE_BOTSCHAFT_INFO
-Kontoinhaber info
+Dieses Konto ist Eigentum von Enea Cobo
